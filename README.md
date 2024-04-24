@@ -19,7 +19,7 @@ The Dry Bean dataset consists of 13611 instances, with each instance having 16 f
 
 4. **Recording Results**: The best parameters and accuracies are recorded for each sample. The sample with maximum accuracy is identified.
 
-
+![notfound](https://github.com/Sehaj4546/Multi-Threading/blob/144682ce14785e842d050577ea8caca1fefe00c0/cpu1.png)
 
 
 
