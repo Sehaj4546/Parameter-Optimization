@@ -19,15 +19,12 @@ The Dry Bean dataset consists of 13611 instances, with each instance having 16 f
 
 4. **Recording Results**: The best parameters and accuracies are recorded for each sample. The sample with maximum accuracy is identified.
 
-![notfound](https://github.com/Sehaj4546/Multi-Threading/blob/144682ce14785e842d050577ea8caca1fefe00c0/cpu1.png)
-
+![notfound](https://github.com/Sehaj4546/Parameter-Optimization/blob/787c9492d71b63cc2205736f2edf784b1eb48c04/table.png)
 
 
 5. **Convergence Graph**: A convergence graph is plotted for the sample with the maximum accuracy, showing how the training and testing accuracies change over iterations during the optimization process.
 
-
-
-
+![notfound](https://github.com/Sehaj4546/Parameter-Optimization/blob/787c9492d71b63cc2205736f2edf784b1eb48c04/result_graph.png)
 
 ## Acknowledgments
 
